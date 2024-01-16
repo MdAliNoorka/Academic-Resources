@@ -1,0 +1,27 @@
+#include <iostream>
+#include <unistd.h>
+#include <sys/wait.h>
+using namespace std;
+int main()
+{
+pid_t retVal;
+cout<<"Process ID: "<<getpid()<<endl;
+retVal=fork();
+if(retVal<0)
+{
+//fork Failed
+cout<<"fork call failed"<<endl;
+
+}else if(retVal==0)
+{
+//Child Process
+cout<<"Child Process ID: "<<getpid()<<endl;
+
+}else
+{
+//Parent Process
+cout<<"Parent Process ID: "<<getpid()<<endl;
+
+}
+
+}
