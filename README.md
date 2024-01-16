@@ -2,9 +2,11 @@
 
 This repository contains outlines, books, slides, assignments, manuals, and other helpful material required throughout the Computer Science degree program at NU.
 
-Since most of the courses in initial semesters are same, students from other degree programs(DS/AI/SE/CYS) can also use this repo with additional care.
+Since most of the courses in the initial semesters are the same, students from other degree programs(DS/AI/SE/CYS) can also use this repo with additional care.
 
 The repository is under construction, and we will add the contents of upcoming semesters. The repository is grouped under semester work, and each semester folder contains courses offered under regular workload in a semester.
+
+Star the repo for future use.
 
 ## Contribution
 
