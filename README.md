@@ -6,7 +6,7 @@ Since most of the courses in the initial semesters are the same, students from o
 
 The repository is under construction, and we will add the contents of upcoming semesters. The repository is grouped under semester work, and each semester folder contains courses offered under regular workload in a semester.
 
-Star the repo for future use.
+⭐Star the repo for future use.
 
 ## Contribution
 
