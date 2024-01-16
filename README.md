@@ -17,7 +17,7 @@ If you have any material that suits the repo purpose, you can add it by:
 
 [LinkedIn](https://www.linkedin.com/in/mdalinoorka/)
 
-[Mail](mdalinoorka@gmail.com)
+[Mail](mailto:mdalinoorka@gmail.com)
 
 
 
