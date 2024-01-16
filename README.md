@@ -4,22 +4,22 @@ This repository contains outlines, books, slides, assignments, manuals, and othe
 
 Since most of the courses in the initial semesters are the same, students from other degree programs(DS/AI/SE/CYS) can also use this repo with additional care.
 
-The repository is under construction, and we will add the contents of upcoming semesters. The repository is grouped under semester work, and each semester folder contains courses offered under regular workload in a semester.
+🚧The repository is under construction, and we will add the contents of upcoming semesters. The repository is grouped under semester work, and each semester folder contains courses offered under regular workload in a semester.
 
 ⭐Star the repo for future use.
 
-## Contribution
+## Contribution ✨
 
 If you have any material that suits the repo purpose, you can add it by:
 
-1. Forking the repository and then initiating a pull request.
+1. 🍴Forking the repository and then initiating a pull request.
 
-2. Sending me or active contributors the material, and we will add it.
+2. ✉️Sending me or active contributors the material, and we will add it.
 
 
-[LinkedIn](https://www.linkedin.com/in/mdalinoorka/)
+[LinkedIn ](https://www.linkedin.com/in/mdalinoorka/)
 
-[Mail](mailto:mdalinoorka@gmail.com)
+[Mail ✉️](mailto:mdalinoorka@gmail.com)
 
 
 
