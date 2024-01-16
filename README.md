@@ -14,4 +14,15 @@ If you have any material that suits the repo purpose, you can add it by:
 
 2. Sending me or active contributors the material, and we will add it.
 
+
+[LinkedIn](https://www.linkedin.com/in/mdalinoorka/)
+
+[Mail](mdalinoorka@gmail.com)
+
+
+
+
+
+
+
 *Keep us in your prayers.* 🙏
