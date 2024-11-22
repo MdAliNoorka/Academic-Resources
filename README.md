@@ -21,6 +21,12 @@ If you have any material that suits the repo purpose, you can add it by:
 
 [Mail ✉️](mailto:mdalinoorka@gmail.com)
 
+Credits: 
+
+[Aamina Batool] (https://www.linkedin.com/in/aaminabatool/)
+[Dr Zareen Alamgir](https://www.linkedin.com/in/zareen-alamgir-19978866/)
+
+
 
 
 
