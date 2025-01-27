@@ -8,7 +8,7 @@ Since most of the courses in the initial semesters are the same, students from o
 
 ⭐Star the repo for future use.
 
-this repository is now maintained on [one drive](https://nupakistan-my.sharepoint.com/:f:/g/personal/l215463_lhr_nu_edu_pk/ErCW4VImQI1FjbAvx_M_6LABeOwOEBqufK2yU-e8WxXtWw?e=T14oIy) 
+this repository is also maintained on [one drive](https://nupakistan-my.sharepoint.com/:f:/g/personal/l215463_lhr_nu_edu_pk/ErCW4VImQI1FjbAvx_M_6LABeOwOEBqufK2yU-e8WxXtWw?e=T14oIy) 
 
 
 https://nupakistan-my.sharepoint.com/:f:/g/personal/l215463_lhr_nu_edu_pk/ErCW4VImQI1FjbAvx_M_6LABeOwOEBqufK2yU-e8WxXtWw?e=T14oIy
