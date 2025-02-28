@@ -40,4 +40,4 @@ Credits:
 
 
 
-*Keep us in your prayers.* 🙏
+*Keep us in your prayers* 🙏
